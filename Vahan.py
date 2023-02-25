@@ -64,7 +64,7 @@ elif main_choice == 2:
     and {noun1_2}. I am so {adj1_2} to {verb1_2} in a tent. I am very {adj2_2} we might see one
     {animal_2}, I hear they’re kind of dangerous. While we’re camping, we are going to hike, fish, and {verb2_2}.
     I have heard that the {colour1_2} lake is great for {verbing1_2}. Then we will {adverb1_2}
-    hike through the forest for {number1_2} {time1_2}. If I see a {colour1_2} {animal_2} while hiking,
+    hike through the forest for {number1_2} {time1_2}s. If I see a {colour1_2} {animal_2} while hiking,
     I am going to bring it home as a pet! At night we will tell {number1_2} {silly1_2} stories and roast {noun2_2}
     around the campfire!!'''
     print(final)
