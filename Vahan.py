@@ -100,5 +100,5 @@ elif main_choice == 3:
     visit, although the only way to get here now is {verbing1_3} on a {adj5_3} {noun5_5}!!'''
     print(final)
     print(story_3)
-okay= input("OK?")
+okay= input("OK?!")
 print ("BYE!")
